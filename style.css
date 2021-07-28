@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top{
+    text-align: center;
+}
+
+#logo img{
+    width: 7%;
+    margin-bottom: -25px;
+    margin-top: -25px;
+}
+
+#logo-name{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#navigation a {
+    color: grey;
+    padding: 8px;
+}
+
+#navigation a:hover{
+    color: black;
+}
+
+#image img{
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#main{
+    width: 1000px;
+    margin: auto;
+}
+
+#portfolio{
+    font-size: 18px;
+}
+
+#portfolio img{
+    width: 100%;
+}
+
+#about-me{
+    font-size: 18px;
+}
